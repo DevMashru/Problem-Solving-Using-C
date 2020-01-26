@@ -24,9 +24,6 @@ int main()
 		case '/':
 			printf("%f",a/b);
 			break;
-		/*case '%':
-			printf("%f",a%b);
-			break;*/
 		default:
 			printf("Invalid option");
 	}
