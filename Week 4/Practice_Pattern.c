@@ -30,10 +30,7 @@ int main()
                 printf("%d",k);
                 k--;
             }
-            
         }
-        for(int l=0;l<=5-i;l++)
-        printf(" ");
         printf("\n");
     }
     return 0;
