@@ -15,7 +15,7 @@ int count()
             c++;
         else if(ch!=p)
         {
-            printf("%c : %d\n",ch,c);
+            printf("%c : %d\n",p,c);
             c=1;
         }
         p=ch;
