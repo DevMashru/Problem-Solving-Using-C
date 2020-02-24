@@ -34,7 +34,7 @@ int count()
 	printf("Freq of i: %d\n",i);
 	printf("Freq of o: %d\n",o);
 	printf("Freq of u: %d\n",u);
-	printf("Number of consonents: %d\n",s);
+	printf("Number of consonants: %d\n",s);
 	return 0;
 }
 int main()
