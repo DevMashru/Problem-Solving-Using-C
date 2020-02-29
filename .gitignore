@@ -1,2 +1,4 @@
 #Object
 *.o
+#Executables
+*.out
