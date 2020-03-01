@@ -1,0 +1,1 @@
+int replace(char *s, char c, char a);
