@@ -1,0 +1,1 @@
+int spiral(int [][100], int, int);
