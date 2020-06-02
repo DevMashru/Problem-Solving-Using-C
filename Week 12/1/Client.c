@@ -7,9 +7,10 @@ int main()
     n=read(&p);
     printf("Array before permutation:");
     display(&p,n);
-    printf("Array after permutation:");
+    printf("\nArray after permutation:");
     permutation(&p,n);
     display(&p,n);
+    printf("\n");
     free(p);
     return 0;
 }

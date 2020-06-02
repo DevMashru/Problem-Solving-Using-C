@@ -22,7 +22,7 @@ int display(int **p, int n)
 {
     for (int i = 0; i < n; i++)
     {
-        printf("%d\n",*(*p+i));
+        printf("%d ",*(*p+i));
     }
     return 0;
 }
